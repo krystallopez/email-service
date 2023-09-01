@@ -1,4 +1,4 @@
-service: email-service
+service: email-service-1
 frameworkVersion: '3'
 
 provider:
